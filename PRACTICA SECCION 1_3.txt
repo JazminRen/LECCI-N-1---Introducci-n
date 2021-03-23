@@ -1,0 +1,11 @@
+Despues de realizar la instalación de netbeans:
+
+8. Cambie la 'S' en "System" a 's' e intente compilarlo.
+¿Es la sintaxis Java sensible a mayúsculas/minúsculas?
+
+R= Si es sensible porque en este caos es erronea la sintaxis
+
+9. Quite el punto y coma (;) e intente volver a compilarlo.
+¿Es el punto y coma importante en la sintaxis Java?
+
+R= Si sin ella el programa no ejecta correctamente
